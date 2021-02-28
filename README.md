@@ -1,4 +1,4 @@
-# Laporan Komputasi Multimedia
+# Komputasi Multimedia
 
 |                |                                    |
 | -------------- | ---------------------------------- |
